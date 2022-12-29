@@ -31,6 +31,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 1.  Clone o repositório: `git clone git@github.com:esiammd/notifications-services.git`
 2.  Acesse a pasta do projeto no seu terminal: `cd notifications-services`
 3.  Instale as dependências (node_modules): `npm install`
-4.  Para rodar o microsserviço: `npm run start:dev`
-5.  Para rodar os testes automatizados: `npm run test`
-6.  Para visualizar a base de dados Prisma: `npx prisma studio` 
+4.  Para rodar os testes automatizados: `npm run test`
+5.  Para rodar o microsserviço de notificações: `npm run start:dev`
+6.  Para visualizar a base de dados Prisma: `npx prisma studio`
+7.  Para executar o kafka producer:
+    - Acesse: https://github.com/esiammd/kafka-producer
+    - Clone o repositório: `git@github.com:esiammd/kafka-producer.git`
+    - Acesse a pasta do projeto: `cd kafka-producer`
+    - Produza uma nova mensagem: `node producer.js`
