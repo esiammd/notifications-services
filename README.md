@@ -14,7 +14,7 @@
 
 ## 💻 Projeto
 
-Desenvolvimento de um microsserviço de notificações com Nest.js, testes automatizados com Jest e serviço de mensageria Kafka.
+Desenvolvimento de um microsserviço de notificações com Nest.js, Prisma, testes automatizados com Jest e serviço de mensageria Kafka.
 
 ## 🚀 Tecnologias
 
