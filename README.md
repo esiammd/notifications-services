@@ -7,7 +7,8 @@
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-vídeo-demonstrativo">Vídeo Demonstrativo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>
 </p>
 
@@ -26,6 +27,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Kafka](https://kafka.apache.org/)
 - [Upstash](https://upstash.com/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+## 🎬 Vídeo Demonstrativo
+
+<p align="center">
+    <img src=".github/notifications-services.gif" alt="Vídeo Demosntrativo do App" width="30%" />
+</p>
 
 ## 🚀 Como executar
 1.  Clone o repositório: `git clone git@github.com:esiammd/notifications-services.git`
