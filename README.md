@@ -36,6 +36,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 6.  Para visualizar a base de dados Prisma: `npx prisma studio`
 7.  Para executar o kafka producer:
     - Acesse: https://github.com/esiammd/kafka-producer
-    - Clone o repositório: `git@github.com:esiammd/kafka-producer.git`
+    - Clone o repositório: `git clone git@github.com:esiammd/kafka-producer.git`
     - Acesse a pasta do projeto: `cd kafka-producer`
     - Produza uma nova mensagem: `node producer.js`
