@@ -31,7 +31,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## 🎬 Vídeo Demonstrativo
 
 <p align="center">
-    <img src=".github/notifications-services.gif" alt="Vídeo Demosntrativo do App" width="30%" />
+    <img src=".github/notifications-services.gif" alt="Vídeo Demosntrativo do App" width="100%" />
 </p>
 
 ## 🚀 Como executar
